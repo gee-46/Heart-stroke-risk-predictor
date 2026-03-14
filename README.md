@@ -72,3 +72,105 @@ This technique is similar to animations used in **Apple product pages and Awwwar
 
 # 📂 Project Structure
 
+```text
+.
+├── README.md
+│
+├── app
+│   └── page.tsx
+│
+├── components
+│   ├── ScrollyCanvas.tsx
+│   ├── Overlay.tsx
+│   ├── Projects.tsx
+│   └── Navbar.tsx
+│
+├── styles
+│   └── globals.css
+│
+└── public
+    └── sequence
+```
+
+---
+
+# 🚀 Featured Projects
+
+### Disaster Vision QA System
+Vision-language model that answers questions about disaster images using BLIP.
+
+### Conversational QA Chatbot
+Context-aware chatbot capable of understanding message history.
+
+### ManMitra – AI Mental Health Assistant
+Built during a **Google Cloud GenAI Hackathon**.  
+AI-powered mental health awareness assistant.
+
+### Freight Cost Prediction ML System
+Machine learning model for predicting vendor invoice freight costs.
+
+---
+
+# 🤖 Tools Used
+
+This project was built with assistance from:
+
+- **Antigravity**
+- **Gemini Pro**
+
+Using these tools also helped me **improve my prompt engineering skills** by experimenting with different prompts and development iterations.
+
+---
+
+# 🎯 Why I Built This
+
+Most of my work usually focuses on **AI, Machine Learning, and Python development**.
+
+This project was a **creative break** to explore:
+
+- Interactive frontend engineering
+- Scroll-based storytelling
+- Cinematic web experiences
+
+Sometimes the best ideas come from simply **opening the editor and vibe coding something fun.**
+
+---
+
+# 🧑‍💻 Author
+
+**Gautam N Chipkar**
+
+AI & Data Science Engineering Student — **SGBIT**
+
+Interests:
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Generative AI
+- Python Development
+
+Previous Experience
+
+Python Developer Intern — *Infosys Springboard*  
+ML Intern — *Cognifyz Technologies*
+
+---
+
+# 🔗 Connect With Me
+
+GitHub  
+https://github.com/gee-46
+
+LinkedIn  
+(https://www.linkedin.com/in/gautam-n-chipkar/)
+
+---
+
+# ⭐ Support
+
+If you found this project interesting:
+
+⭐ Star the repository  
+🍴 Fork it  
+💡 Use it as inspiration for your own portfolio
