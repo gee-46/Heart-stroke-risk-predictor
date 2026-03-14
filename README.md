@@ -106,8 +106,8 @@ Context-aware chatbot capable of understanding message history.
 Built during a **Google Cloud GenAI Hackathon**.  
 AI-powered mental health awareness assistant.
 
-### Freight Cost Prediction ML System
-Machine learning model for predicting vendor invoice freight costs.
+### Gesture-Based Volume Control
+Computer vision application that controls system volume using real-time hand gesture recognition.
 
 ---
 
@@ -117,6 +117,7 @@ This project was built with assistance from:
 
 - **Antigravity**
 - **Gemini Pro**
+- **Google Whisk**
 
 Using these tools also helped me **improve my prompt engineering skills** by experimenting with different prompts and development iterations.
 
